@@ -1,13 +1,13 @@
 personal_information:
   name: "Nnamdi"
   surname: "Ngwu"
-  date_of_birth: "25/02/1991"
+  date_of_birth: "25/0"
   country: "Germany"
   city: "Berlin"
-  zip_code: "12049"
-  address: "Herrfurthstr. 5"
+  zip_code: "12"
+  address: "Herrfur. 5"
   phone_prefix: "+49"
-  phone: "15238302350"
+  phone: "15238"
   email: "nnamdi.ngwu@yandex.com"
   github: "http://github.com/NnamdiNgwu"
   linkedin: "https://www.linkedin.com/in/nnamdi-ngwu/"
@@ -62,8 +62,7 @@ experience_details:
     skills_acquired:
       - "ETL Pipeline"
       - "Airflow"
-      - "ChatGPT API"
-      - "Natural Language Processing
+      - "Natural Language Processing"
   - position: "Junior Data Analyst"
     company: "BlueTag Technology"
     employment_period: "01/2018 - 05/2019"
@@ -87,8 +86,8 @@ projects:
 achievements:
   - name: "Employee of the Month"
     description: "Recognized for exceptional performance and contributions to the team."
-  - name: "Hackathon Winner"
-    description: "Won first place in a national hackathon competition."
+  - name: "Winner"
+    description: "Won"
 
 certifications:
   - "Data Science"
@@ -108,6 +107,7 @@ interests:
   - "Process Innovation"
   - "Chess"
   - "Entrepreneurship"
+  - "Data"
 
 availability:
   notice_period: "2 weeks"

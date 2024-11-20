@@ -25,24 +25,36 @@ date:
 
 positions:
   - Software engineer
+  - Data scientist
+  - DevOps engineer
+  - Process Innovation 
+  - Machine Learning Engineer
+  - Digital Transformation
 
 locations:
   - Germany
+  - United States
+  - Canada
+  - Australia
+  - UK
+  - Sweden
+  - Switzerland
 
 apply_once_at_company: true
 
 distance: 100
 
 company_blacklist:
-  - wayfair
-  - Crossover
+  - aiio
+
 
 title_blacklist:
-  - word1
+  - senior level
   - word2
 
 location_blacklist:
   - Brazil
+  - Nigeria
 
 job_applicants_threshold:
   min_applicants: 0
