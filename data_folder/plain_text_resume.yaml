@@ -1,0 +1,150 @@
+personal_information:
+  name: "Nnamdi"
+  surname: "Ngwu"
+  date_of_birth: "25/02/1991"
+  country: "Germany"
+  city: "Berlin"
+  zip_code: "12049"
+  address: "Herrfurthstr. 5"
+  phone_prefix: "+49"
+  phone: "15238302350"
+  email: "nnamdi.ngwu@yandex.com"
+  github: "http://github.com/NnamdiNgwu"
+  linkedin: "https://www.linkedin.com/in/nnamdi-ngwu/"
+  
+
+education_details:
+  - education_level: "Master's Degree"
+    institution: "Berlin University Economics and Law"
+    field_of_study: "Digital Transformation"
+    final_evaluation_grade: "1.66"
+    year_of_completion: "2025"
+    start_date: "2023"
+    # additional_info:
+    #   exam:
+    #     Algorithms: "A"
+    #     Linear Algebra: "A"
+    #     Database Systems: "A"
+    #     Operating Systems: "A-"
+    #     Web Development: "A"
+  - education_level: "Bachelor's Degree"
+    institution: "Enugu state University of Science and Technology"
+    field_of_study: "Computer Science"
+    # final_evaluation_grade: "2.75"
+    year_of_completion: "2015"
+    start_date: "2011"
+
+experience_details:
+  - position: "AI Engineer"
+    company: "aiio GmbH"
+    employment_period: "11/2023 - 10/2024"
+    location: "Magdeburg, Germany"
+    industry: "Technology"
+    key_responsibilities:
+      - responsibility: "Collaborated with the team to integrate AI Agent into AIIO cloud-based business process management software"
+      # - responsibility: "Collaborated with cross-functional teams to design and implement new features"
+      # - responsibility: "Troubleshot and resolved complex software issues"
+    skills_acquired:
+      - "Python"
+      - "JavaScript"
+      - "Process Modeling"
+      - "llm Optimization"
+      - "AI-Agent"
+  - position: "MLOPs"
+    company: "BlueTag Technologies"
+    employment_period: "08/2022 - 09/2023"
+    location: "Enugu, Nigeria"
+    industry: "Technology"
+    key_responsibilities:
+      - responsibility: "Built a customer attrition chatbot that improved monthly retention by 10 basis points for customers likely to opt-out by providing easy ordering features for them.  Leverage on ChatGPT -4 API to optimize system design for performance efficiency."
+      - responsibility: "Constructed an ETL and ELT pipeline in Airflow to support the analysis of machine learning performance"
+      # - responsibility: "Implemented automated testing procedures to ensure code quality"
+    skills_acquired:
+      - "ETL Pipeline"
+      - "Airflow"
+      - "ChatGPT API"
+      - "Natural Language Processing
+  - position: "Junior Data Analyst"
+    company: "BlueTag Technology"
+    employment_period: "01/2018 - 05/2019"
+    location: "Enugu, Nigeria"
+    industry: "Technology"
+    key_responsibilities:
+      - responsibility: "Assisted in the development student management system"
+      # - responsibility: "Participated in code reviews and contributed to software design discussions"
+      # - responsibility: "Resolved bugs and implemented feature enhancements"
+    skills_acquired:
+      - "Data Analysis"
+      # - "Code reviews"
+      - ""
+projects:
+  - name: "WorkFlow Automation across-departments"
+    description: "Process Innovation: Proposed and implemented an internal process innovation to automate workflows across departments, eliminate redundancies, improve IT strategy, and enhance employee productivity"
+    # link: "https://github.com/"
+
+
+
+achievements:
+  - name: "Employee of the Month"
+    description: "Recognized for exceptional performance and contributions to the team."
+  - name: "Hackathon Winner"
+    description: "Won first place in a national hackathon competition."
+
+certifications:
+  - "Data Science"
+  #- "AWS Certified Solutions Architect"
+
+languages:
+  - language: "English"
+    proficiency: "Fluent"
+  - language: "Germany"
+    proficiency: "B1"
+  - language: "Igbo"
+    proficiency: "Native"
+
+interests:
+  - "Machine Learning"
+  - "Cybersecurity"
+  - "Process Innovation"
+  - "Chess"
+  - "Entrepreneurship"
+
+availability:
+  notice_period: "2 weeks"
+
+salary_expectations:
+  salary_range_usd: "45000 - 110000"
+
+self_identification:
+  gender: "Male"
+  pronouns: "He"
+  veteran: "No"
+  disability: "No"
+  ethnicity: "AFrican"
+
+legal_authorization:
+  eu_work_authorization: "Yes"
+  us_work_authorization: "No"
+  requires_us_visa: "Yes"
+  requires_us_sponsorship: "Yes"
+  requires_eu_visa: "No"
+  legally_allowed_to_work_in_eu: "Yes"
+  legally_allowed_to_work_in_us: "No"
+  requires_eu_sponsorship: "No"
+  canada_work_authorization: "No"
+  requires_canada_visa: "Yes"
+  legally_allowed_to_work_in_canada: "No"
+  requires_canada_sponsorship: "Yes"
+  uk_work_authorization: "No"
+  requires_uk_visa: "Yes"
+  legally_allowed_to_work_in_uk: "No"
+  requires_uk_sponsorship: "Yes"
+
+
+work_preferences:
+  remote_work: "Yes"
+  in_person_work: "Yes"
+  open_to_relocation: "Yes"
+  willing_to_complete_assessments: "Yes"
+  willing_to_undergo_drug_tests: "Yes"
+  willing_to_undergo_background_checks: "Yes"
