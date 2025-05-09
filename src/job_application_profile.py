@@ -38,6 +38,8 @@ class LegalAuthorization:
 @dataclass
 class WorkPreferences:
     remote_work: str
+    hybrid_work: str
+    on_site: str
     in_person_work: str
     open_to_relocation: str
     willing_to_complete_assessments: str

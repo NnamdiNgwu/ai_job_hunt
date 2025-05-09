@@ -1,7 +1,11 @@
+hybrid: true
 remote: true
+on-site: true
+
 
 experienceLevel:
-  internship: false
+  internship: true
+  student_work: true
   entry: true
   associate: true
   mid-senior level: true
@@ -10,26 +14,32 @@ experienceLevel:
 
 jobTypes:
   full-time: true
-  contract: false
-  part-time: false
+  contract: true
+  part-time: true
   temporary: true
-  internship: false
+  internship: true
+  student-work: true
   other: false
   volunteer: true
 
 date:
-  all time: false
-  month: false
-  week: false
+  all time: true
+  month: true
+  week: true
   24 hours: true
 
 positions:
+ - AI Engineer
   - Software engineer
   - Data scientist
   - DevOps engineer
   - Process Innovation 
   - Machine Learning Engineer
   - Digital Transformation
+  - Working Student AI Engineer
+  - AI Developer Working Student
+  - Data Engineer Working Student
+ 
 
 locations:
   - Germany
@@ -39,13 +49,19 @@ locations:
   - UK
   - Sweden
   - Switzerland
+  - Norway
+  - Denmark
+  - Finland
+  - Netherlands
+  - Belgium
+  - France
 
 apply_once_at_company: true
 
 distance: 100
 
 company_blacklist:
-  - aiio
+  - aiio.de
 
 
 title_blacklist:

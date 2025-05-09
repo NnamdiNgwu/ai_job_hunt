@@ -1,13 +1,13 @@
 personal_information:
   name: "Nnamdi"
   surname: "Ngwu"
-  date_of_birth: "25/0"
+  date_of_birth: "25/02/1991"
   country: "Germany"
   city: "Berlin"
-  zip_code: "12"
+  zip_code: "12049"
   address: "Herrfur. 5"
   phone_prefix: "+49"
-  phone: "15238"
+  phone: "15238302350"
   email: "nnamdi.ngwu@yandex.com"
   github: "http://github.com/NnamdiNgwu"
   linkedin: "https://www.linkedin.com/in/nnamdi-ngwu/"
@@ -17,7 +17,7 @@ education_details:
   - education_level: "Master's Degree"
     institution: "Berlin University Economics and Law"
     field_of_study: "Digital Transformation"
-    final_evaluation_grade: "1.66"
+    final_evaluation_grade: "1.55"
     year_of_completion: "2025"
     start_date: "2023"
     # additional_info:
@@ -30,29 +30,28 @@ education_details:
   - education_level: "Bachelor's Degree"
     institution: "Enugu state University of Science and Technology"
     field_of_study: "Computer Science"
-    # final_evaluation_grade: "2.75"
+    final_evaluation_grade: "2.1"
     year_of_completion: "2015"
     start_date: "2011"
 
 experience_details:
   - position: "AI Engineer"
     company: "aiio GmbH"
-    employment_period: "11/2023 - 10/2024"
+    employment_period: "2023 - 2024"
     location: "Magdeburg, Germany"
     industry: "Technology"
     key_responsibilities:
-      - responsibility: "Collaborated with the team to integrate AI Agent into AIIO cloud-based business process management software"
+      - responsibility: "Collaborated with the team to integrate AI into aiio.de cloud-based business process management software"
       # - responsibility: "Collaborated with cross-functional teams to design and implement new features"
       # - responsibility: "Troubleshot and resolved complex software issues"
     skills_acquired:
       - "Python"
       - "JavaScript"
       - "Process Modeling"
-      - "llm Optimization"
-      - "AI-Agent"
+      - "fine tuning"
   - position: "MLOPs"
     company: "BlueTag Technologies"
-    employment_period: "08/2022 - 09/2023"
+    employment_period: "2022 - 2023"
     location: "Enugu, Nigeria"
     industry: "Technology"
     key_responsibilities:
@@ -65,12 +64,12 @@ experience_details:
       - "Natural Language Processing"
   - position: "Junior Data Analyst"
     company: "BlueTag Technology"
-    employment_period: "01/2018 - 05/2019"
+    employment_period: "2018 - 05/2019"
     location: "Enugu, Nigeria"
     industry: "Technology"
     key_responsibilities:
       - responsibility: "Assisted in the development student management system"
-      # - responsibility: "Participated in code reviews and contributed to software design discussions"
+      - responsibility: "Participated in code reviews and contributed to software design discussions"
       # - responsibility: "Resolved bugs and implemented feature enhancements"
     skills_acquired:
       - "Data Analysis"
@@ -89,13 +88,15 @@ achievements:
   - name: "Winner"
     description: "Won"
 
-certifications:
-  - "Data Science"
+# certifications:
+#      name: Data Science
+#      organization: Spiced Academy Bootcamp
+#      date: 08/2022
   #- "AWS Certified Solutions Architect"
 
 languages:
   - language: "English"
-    proficiency: "Fluent"
+    proficiency: "Native"
   - language: "Germany"
     proficiency: "B1"
   - language: "Igbo"
@@ -105,22 +106,21 @@ interests:
   - "Machine Learning"
   - "Cybersecurity"
   - "Process Innovation"
-  - "Chess"
-  - "Entrepreneurship"
-  - "Data"
+  - "Data Engineering"
+  - "Artificial Intelligence"
 
 availability:
   notice_period: "2 weeks"
 
 salary_expectations:
-  salary_range_usd: "45000 - 110000"
+  salary_range_usd: "45000 - 50000"
 
 self_identification:
   gender: "Male"
   pronouns: "He"
   veteran: "No"
   disability: "No"
-  ethnicity: "AFrican"
+  ethnicity: "African"
 
 legal_authorization:
   eu_work_authorization: "Yes"
@@ -143,6 +143,8 @@ legal_authorization:
 
 work_preferences:
   remote_work: "Yes"
+  hybrid_work: "Yes"
+  on_site: "Yes"
   in_person_work: "Yes"
   open_to_relocation: "Yes"
   willing_to_complete_assessments: "Yes"

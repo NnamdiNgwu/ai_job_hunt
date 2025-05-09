@@ -1,4 +1,6 @@
 remote: true
+hybrid: true
+in_person: true
 
 experienceLevel:
   internship: false
@@ -31,7 +33,7 @@ locations:
 
 apply_once_at_company: true
 
-distance: 100
+distance: 50
 
 company_blacklist:
   - wayfair

@@ -102,36 +102,38 @@ availability:
   notice_period: "2 weeks"
 
 salary_expectations:
-  salary_range_usd: "90000 - 110000"
+  salary_range_usd: "40000 - 55000"
 
 self_identification:
-  gender: "Female"
-  pronouns: "She/Her"
+  gender: "Male"
+  pronouns: "He"
   veteran: "No"
   disability: "No"
-  ethnicity: "Asian"
+  ethnicity: "African"
 
 legal_authorization:
   eu_work_authorization: "Yes"
   us_work_authorization: "Yes"
   requires_us_visa: "No"
-  requires_us_sponsorship: "Yes"
+  requires_us_sponsorship: "No"
   requires_eu_visa: "No"
   legally_allowed_to_work_in_eu: "Yes"
-  legally_allowed_to_work_in_us: "Yes"
+  legally_allowed_to_work_in_us: "No"
   requires_eu_sponsorship: "No"
-  canada_work_authorization: "Yes"
+  canada_work_authorization: "No"
   requires_canada_visa: "No"
-  legally_allowed_to_work_in_canada: "Yes"
+  legally_allowed_to_work_in_canada: "No"
   requires_canada_sponsorship: "No"
-  uk_work_authorization: "Yes"
+  uk_work_authorization: "No"
   requires_uk_visa: "No"
-  legally_allowed_to_work_in_uk: "Yes"
+  legally_allowed_to_work_in_uk: "No"
   requires_uk_sponsorship: "No"
 
 
 work_preferences:
   remote_work: "Yes"
+  hybrid_work: "Yes"
+  on_site_work: "Yes"
   in_person_work: "Yes"
   open_to_relocation: "Yes"
   willing_to_complete_assessments: "Yes"

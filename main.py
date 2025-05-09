@@ -43,6 +43,8 @@ class ConfigValidator:
         parameters = ConfigValidator.validate_yaml_file(config_yaml_path)
         required_keys = {
             'remote': bool,
+            'hybrid': bool,
+            'on-site': bool,
             'experienceLevel': dict,
             'jobTypes': dict,
             'date': dict,
@@ -69,7 +71,7 @@ class ConfigValidator:
                     raise ConfigError(f"Invalid type for key '{key}' in config file {config_yaml_path}. Expected {expected_type}.")
 
         # Validate experience levels, ensure they are boolean
-        experience_levels = ['internship', 'entry', 'associate', 'mid-senior level', 'director', 'executive']
+        experience_levels = ['internship', 'entry', 'associate', 'mid-senior level', 'director', 'executive', 'student_work']
         for level in experience_levels:
             if not isinstance(parameters['experienceLevel'].get(level), bool):
                 raise ConfigError(f"Experience level '{level}' must be a boolean in config file {config_yaml_path}")
