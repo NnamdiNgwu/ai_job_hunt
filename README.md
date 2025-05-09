@@ -2,24 +2,22 @@
 
 <a name="top"></a>
 <div align="center">
-<img src="./assets/AIHawk.png">
+<img src="./assets/AI.png">
 
 <!-- At first glance, the branding and messaging clearly conveys what to expect -->
 
-  <!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AIhawkCommunity) -->
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nnamdi.ngwu@yandex.com)
 
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:federico.elia.majo@gmail.com)
-
-# Auto_Jobs_Applier_AIHawk
+# Auto_Jobs_Applier
 
   ![CI](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk/actions/workflows/ci.yml/badge.svg)
 
 **🤖🔍 Your AI-powered job search assistant. Automate applications, get personalized recommendations, and land your dream job faster.**
 
 <!-- Message Clarity -->
-## 🚀 Join the AIHawk Community 🚀
+## 🚀 Join the AI_Job_Applier Community 🚀
 
-Connect with like-minded individuals and get the most out of AIHawk.
+Connect with like-minded individuals and get the most out of AI_Job_Applier.
 
 💡 **Get support:** Ask questions, troubleshoot issues, and find solutions.
 
@@ -27,23 +25,19 @@ Connect with like-minded individuals and get the most out of AIHawk.
 
 🤝 **Network:** Connect with other professionals and explore new opportunities.
 
-🔔 **Stay updated:** Get the latest news and updates on AIHawk.
+🔔 **Stay updated:** Get the latest news and updates on AI_job_applier.
 
 <!-- Strong Call to Action -->
-### Join Now 👇
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-)](https://t.me/AIhawkCommunity)
-
-<!-- 🚀 **Join Our Telegram Community!** 🚀
+<!-- 🚀 **Join Our Community!** 🚀
 
 Join our **Telegram community** for:
-- **Support with AIHawk software**
-- **Share your experiences** with AIhawk and learn from others
+- **Support with AI_Job_Applier software**
+- **Share your experiences** with AI_Job_Applier and learn from others
 - **Job search tips** and **resume advice**
 - **Idea exchange** and resources for your projects
 
-<-- **[Join now!](https://t.me/AIhawkCommunity)** -->
+<-- **[Join now!]()** -->
 </div>
 
 ## Table of Contents
@@ -62,15 +56,15 @@ Join our **Telegram community** for:
 
 ## Introduction
 
-Auto_Jobs_Applier_AIHawk is a cutting-edge, automated tool designed to revolutionize the job search and application process. In today's fiercely competitive job market, where opportunities can vanish in the blink of an eye, this program offers job seekers a significant advantage. By leveraging the power of automation and artificial intelligence, Auto_Jobs_Applier_AIHawk enables users to apply to a vast number of relevant positions efficiently and in a personalized manner, maximizing their chances of landing their dream job.
+Auto_Jobs_Applier is a cutting-edge, automated tool designed to revolutionize the job search and application process. In today's fiercely competitive job market, where opportunities can vanish in the blink of an eye, this program offers job seekers a significant advantage. By leveraging the power of automation and artificial intelligence, Auto_Jobs_Applier enables users to apply to a vast number of relevant positions efficiently and in a personalized manner, maximizing their chances of landing their dream job.
 
 ### The Challenge of Modern Job Hunting
 
 In the digital age, the job search landscape has undergone a dramatic transformation. While online platforms have opened up a world of opportunities, they have also intensified competition. Job seekers often find themselves spending countless hours scrolling through listings, tailoring applications, and repetitively filling out forms. This process can be not only time-consuming but also emotionally draining, leading to job search fatigue and missed opportunities.
 
-### Enter Auto_Jobs_Applier_AIHawk: Your Personal Job Search Assistant
+### Enter Auto_Jobs_Applier: Your Personal Job Search Assistant
 
-Auto_Jobs_Applier_AIHawk steps in as a game-changing solution to these challenges. It's not just a tool; it's your tireless, 24/7 job search partner. By automating the most time-consuming aspects of the job search process, it allows you to focus on what truly matters - preparing for interviews and developing your professional skills.
+Auto_Jobs_Applier steps in as a game-changing solution to these challenges. It's not just a tool; it's your tireless, 24/7 job search partner. By automating the most time-consuming aspects of the job search process, it allows you to focus on what truly matters - preparing for interviews and developing your professional skills.
 
 ## Features
 
@@ -131,7 +125,7 @@ Auto_Jobs_Applier_AIHawk steps in as a game-changing solution to these challenge
 3. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk.git
+   git clone https://github.com/feder-cr/Auto_Jobs_Applier.git
    
    cd Auto_Jobs_Applier_AIHawk
    ```
@@ -576,7 +570,7 @@ Using this folder as a guide can be particularly helpful for:
 
 3. **Run the Bot:**
 
-   Auto_Jobs_Applier_AIHawk offers flexibility in how it handles your pdf resume:
+   Auto_Jobs_Applier offers flexibility in how it handles your pdf resume:
 
 - **Dynamic Resume Generation:**
   If you don't use the `--resume` option, the bot will automatically generate a unique resume for each application. This feature uses the information from your `plain_text_resume.yaml` file and tailors it to each specific job application, potentially increasing your chances of success by customizing your resume for each position.
@@ -669,30 +663,26 @@ yaml.scanner.ScannerError: while scanning a simple key
 - Check internet connection stability
 - Clear browser cache and cookies if issues persist
 
-For further assistance, please create an issue on the [GitHub repository](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk/issues) with detailed information about your problem, including error messages and your configuration (with sensitive information removed).
+For further assistance, please create an issue on the [GitHub repository](https://github.com/feder-cr/Auto_Jobs_Applier/issues) with detailed information about your problem, including error messages and your configuration (with sensitive information removed).
 
 ## Documentation
 
 ### For Users
 
 - Ollama & Gemini Setup
-  - To install and configure **Ollama** and **Gemini**, [Download Ollama and Gemini Setup Guide (PDF)](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk/blob/main/docs/guide_to_setup_ollama_and_gemini.pdf)
-  - Follow the instructions in these guides to ensure proper configuration of **AIHawk** with **Ollama** and **Gemini**.
-  - Written by Rushi, [Linkedin](https://www.linkedin.com/in/rushichaganti/), support him by following.
+  - To install and configure **Ollama** and **Gemini**, [Download Ollama and Gemini Setup Guide (PDF)](https://github.com/feder-cr/Auto_Jobs_Applier_/blob/main/docs/guide_to_setup_ollama_and_gemini.pdf)
+  - Follow the instructions in these guides to ensure proper configuration of **AIJobApplier** with **Ollama** and **Gemini**.
+  
 
 - Editing YAML Files
-  - For detailed instructions on editing YAML configuration sections for **AIHawk**, refer to this document:
-  - [Download YAML Editing Guide (PDF)](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk/blob/main/docs/guide_yaml_sections.pdf)
-  - Written by Rushi, [Linkedin](https://www.linkedin.com/in/rushichaganti/), support him by following.
+  - For detailed instructions on editing YAML configuration sections for **AIJobApplier**, refer to this document:
+  - [Download YAML Editing Guide (PDF)](https://github.com/feder-cr/Auto_Jobs_Applier/blob/main/docs/guide_yaml_sections.pdf)
 
-- Auto-start AIHawk
+
+- Auto-start AI_Jobs_Applier
   - To make **AIHawk** automatically start when your system boots, follow the steps in this guide:
-  - [Download Auto-start AIHawk Guide (PDF)](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk/blob/main/docs/guide_to_autostart_aihawk.pdf)
-  - Written by Rushi, [Linkedin](https://www.linkedin.com/in/rushichaganti/), support him by following.
+  - [Download Auto-start  Guide (PDF)](https://github.com/feder-cr/Auto_Jobs_Applier_/blob/main/docs/guide_to_autostart_ai.pdf)
 
-- Video Tutorial
-  - [How to set up Auto_Jobs_Applier_AIHawk](https://youtu.be/gdW9wogHEUM)
-  - Written by Rushi, [Linkedin](https://www.linkedin.com/in/rushichaganti/), support him by following.
 
 - [OpenAI API Documentation](https://platform.openai.com/docs/)
 
@@ -704,19 +694,15 @@ For further assistance, please create an issue on the [GitHub repository](https:
 
 - [Workflow diagrams](docs/workflow_diagrams.md)
 
-- If you encounter any issues, you can open an issue on [GitHub](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk/issues).
-  Please add valuable details to the subject and to the description. If you need new feature then please reflect this.  
-  I'll be more than happy to assist you!
 
 ## Conclusion
 
-Auto_Jobs_Applier_AIHawk provides a significant advantage in the modern job market by automating and enhancing the job application process. With features like dynamic resume generation and AI-powered personalization, it offers unparalleled flexibility and efficiency. Whether you're a job seeker aiming to maximize your chances of landing a job, a recruiter looking to streamline application submissions, or a career advisor seeking to offer better services, Auto_Jobs_Applier_AIHawk is an invaluable resource. By leveraging cutting-edge automation and artificial intelligence, this tool not only saves time but also significantly increases the effectiveness and quality of job applications in today's competitive landscape.
+Auto_Jobs_Applier provides a significant advantage in the modern job market by automating and enhancing the job application process. With features like dynamic resume generation and AI-powered personalization, it offers unparalleled flexibility and efficiency. Whether you're a job seeker aiming to maximize your chances of landing a job, a recruiter looking to streamline application submissions, or a career advisor seeking to offer better services, Auto_Jobs_Applier is an invaluable resource. By leveraging cutting-edge automation and artificial intelligence, this tool not only saves time but also significantly increases the effectiveness and quality of job applications in today's competitive landscape.
 
 ## Contributors
 
-- [feder-cr](https://github.com/feder-cr) - Creator and Lead Developer
 
-Auto_Jobs_Applier_AIHawk is still in beta, and your feedback, suggestions, and contributions are highly valued. Feel free to open issues, suggest enhancements, or submit pull requests to help improve the project. Let's work together to make Auto_Jobs_Applier_AIHawk an even more powerful tool for job seekers worldwide.
+Auto_Jobs_Applier is still in beta, and your feedback, suggestions, and contributions are highly valued. Feel free to open issues, suggest enhancements, or submit pull requests to help improve the project. Let's work together to make Auto_Jobs_Applier an even more powerful tool for job seekers worldwide.
 
 ## License
 
@@ -724,6 +710,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Disclaimer
 
-This tool, Auto_Jobs_Applier_AIHawk, is intended for educational purposes only. The creator assumes no responsibility for any consequences arising from its use. Users are advised to comply with the terms of service of relevant platforms and adhere to all applicable laws, regulations, and ethical guidelines. The use of automated tools for job applications may carry risks, including potential impacts on user accounts. Proceed with caution and at your own discretion.
+This tool, Auto_Jobs_Applier, is intended for educational purposes only. The creator assumes no responsibility for any consequences arising from its use. Users are advised to comply with the terms of service of relevant platforms and adhere to all applicable laws, regulations, and ethical guidelines. The use of automated tools for job applications may carry risks, including potential impacts on user accounts. Proceed with caution and at your own discretion.
 
 [Back to top 🚀](#top)
