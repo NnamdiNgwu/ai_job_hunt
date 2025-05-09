@@ -10,22 +10,12 @@
 
 # Auto_Jobs_Applier
 
-  ![CI](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk/actions/workflows/ci.yml/badge.svg)
+  ![CI](https://github.com/NnamdiNgwu/ai_job_hunt/actions/workflows/ci.yml/badge.svg)
+
 
 **🤖🔍 Your AI-powered job search assistant. Automate applications, get personalized recommendations, and land your dream job faster.**
 
 <!-- Message Clarity -->
-## 🚀 Join the AI_Job_Applier Community 🚀
-
-Connect with like-minded individuals and get the most out of AI_Job_Applier.
-
-💡 **Get support:** Ask questions, troubleshoot issues, and find solutions.
-
-🗣️ **Share knowledge:** Share your experiences, tips, and best practices.
-
-🤝 **Network:** Connect with other professionals and explore new opportunities.
-
-🔔 **Stay updated:** Get the latest news and updates on AI_job_applier.
 
 <!-- Strong Call to Action -->
 
