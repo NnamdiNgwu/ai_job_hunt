@@ -1,12 +1,8 @@
-# ai_job_hunt
+# ai_smart_job_hunt
 
 <a name="top"></a>
 <div align="center">
-<<<<<<< HEAD
 <img src="./assets/ai.png">
-=======
-<img src="./assets/AI.png">
->>>>>>> 73c251341a606a917ed25f020164c958dfbf3124
 
 <!-- At first glance, the branding and messaging clearly conveys what to expect -->
 
@@ -24,19 +20,7 @@
 <<<<<<< HEAD
 
 <-- **[Try now!]()** -->
-=======
-<!-- Strong Call to Action -->
 
-<!-- 🚀 **Join Our Community!** 🚀
-
-Join our **Telegram community** for:
-- **Support with AI_Job_Applier software**
-- **Share your experiences** with AI_Job_Applier and learn from others
-- **Job search tips** and **resume advice**
-- **Idea exchange** and resources for your projects
-
-<-- **[Join now!]()** -->
->>>>>>> 73c251341a606a917ed25f020164c958dfbf3124
 </div>
 
 ## Table of Contents
