@@ -2,7 +2,7 @@
 
 <a name="top"></a>
 <div align="center">
-<<<<<<< HEAD
+
 <img src="./assets/ai.png">
 =======
 
@@ -18,8 +18,6 @@
 **🤖🔍 Your AI-powered job search assistant. Automate applications, get personalized recommendations, and land your dream job faster.**
 
 <!-- Message Clarity -->
-
-<<<<<<< HEAD
 
 <-- **[Try now!]()** -->
 =======
