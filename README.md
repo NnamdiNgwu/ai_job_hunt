@@ -17,10 +17,7 @@
 
 <!-- Message Clarity -->
 
-<<<<<<< HEAD
-
 <-- **[Try now!]()** -->
-
 </div>
 
 ## Table of Contents
